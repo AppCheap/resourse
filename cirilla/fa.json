@@ -12,6 +12,11 @@
     "login_description_register": "حساب کاربری ندارید؟",
     "login_description_social": "برای ادامه حساب کاربری ایجاد کنید",
     "login_sign_in_to_receive": "برای دریافت پیشنهادات منحصر به فرد وارد شوید و\nتبلیغات",
+    "login_local_let_os": "اجازه دهید سیستم عامل روش احراز هویت را تعیین کند",
+    "login_local_scan_face": "برای احراز هویت، صورت خود را اسکن کنید",
+    "login_local_scan_iris": "عنبیه خود را برای احراز هویت اسکن کنید",
+    "login_local_scan_fingerprint": "برای احراز هویت، اثر انگشت خود را اسکن کنید",
+    "login_local_using_biometric": "با استفاده از بیومتریک",
     "_register_screen": "ثبت نام",
     "input_user_email": "نام کاربری یا آدرس ایمیل",
     "input_first_name_required": "نام کوچک *",
@@ -183,6 +188,11 @@
     "product_view_cart": "مشاهده سبد خرید",
     "product_appointment_durations": "+ {duration} دقیقه",
     "product_appointment_duration": "+ {duration} دقیقه",
+    "product_file_size": "حداکثر حجم فایل 1 مگابایت",
+    "product_share": "اشتراک گذاری",
+    "product_hide": "پنهان شدن",
+    "product_read_more": "ادامه مطلب",
+    "product_view": "مشاهده محصول",
     "_contact_screen": "مخاطب",
     "contact_us": "با ما تماس بگیرید",
     "contact_touch": "در تماس باشید",
@@ -233,6 +243,9 @@
     "order_billing_email": "آدرس ایمیل : {email}",
     "order_billing_phone": "تلفن: {phone}",
     "order_not_found": "سفارش پیدا نشد",
+    "order_cancellation_details": "جزئیات لغو",
+    "order_request": "درخواست لغو سفارش",
+    "order_cancel": "لغو سفارش",
     "_download_screen": "دانلود",
     "download_title": "دانلودها",
     "download_remain": "پایین مانده:",
@@ -267,6 +280,14 @@
     "cart_delete_dialog_description": "سبد خرید برای همیشه حذف خواهد شد.",
     "cart_delete_dialog_cancel": "لغو کنید",
     "cart_delete_dialog_ok": "خوب",
+    "cart_coupon_detail": "جزئیات",
+    "cart_coupon_detail_2": "جزئیات کوپن",
+    "cart_coupon_copy": "کپی 🀄",
+    "cart_coupon_expired": "کوپن منقضی شده است",
+    "cart_coupon_description": "توضیحات کوپن",
+    "cart_coupon_code": "کد کوپن",
+    "cart_coupon_list": "لیست کوپن",
+    "cart_coupon_add": "اضافه کردن کوپن",
     "_product_list_screen": "لیست محصولات",
     "product_list_products": "همه محصولات",
     "product_list_items": "{count} مورد",
@@ -581,5 +602,14 @@
     "address_book_input_nickname": "نام مستعار آدرس (اختیاری)",
     "address_book_hint_nickname": "به شما کمک می کند آدرس های خود را به راحتی شناسایی کنید.",
     "address_book_add_success_form": "آدرس موفقیت را اضافه کنید",
-    "address_book_update_success_form": "به روز رسانی آدرس موفقیت آمیز"
+    "address_book_update_success_form": "به روز رسانی آدرس موفقیت آمیز",
+    "_picker": "انتخابگر",
+    "picker_select_file": "فایل را انتخاب کنید",
+    "picker_change_file": "فایل را تغییر دهید",
+    "picker_no_file": "هیچ فایلی انتخاب نشده است",
+    "picker_take_photo": "عکس گرفتن",
+    "picker_photo_library": "کتابخانه عکس",
+    "picker_file_library": "کتابخانه فایل",
+    "picker_remove_file": "حذف فایل",
+    "picker_cancel": "لغو کنید"
 }
