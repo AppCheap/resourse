@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Chefuru okwuntughe",
     "forgot_password_appbar": "Chefuru okwuntughe",
     "forgot_password_description": "Tinye adreesị ozi-e akaụntụ gị, anyị ga-ezite ntụziaka maka otu esi edozi paswọọdụ gị",
+    "forgot_password_desc_app": "Biko tinye aha njirimara gị ka ị nweta koodu nkwenye. Anyị ga-eziga koodu ahụ na adreesị ozi-e nke edebanye aha maka akaụntụ gị.",
+    "forgot_password_note": "Mara: Adreesị ozi-e gị ga-abụrịrị nke ọma ma echefukwala ịlele igbe mbata junk gị.",
+    "forgot_password": "Ziga",
+    "forgot_password_reset_password": "Tọgharia okwuntughe",
     "forgot_password_btn": "Zipu ozi-e",
     "forgot_password_success": "Gaa email gị ka ị nweta paswọọdụ",
     "_change_password": "Gbanwee okwuntughe",
@@ -796,5 +800,11 @@
     "timeago_a_month": "ihe dị ka otu ọnwa",
     "timeago_months": "{months}",
     "timeago_a_year": "ihe dị ka otu afọ",
-    "timeago_years": "{years}"
+    "timeago_years": "{years}",
+    "_internet": "ịntanetị",
+    "no_internet": "Enweghị njikọ ịntanetị",
+    "no_internet_content_1": "Anyị enweghị ike ịchọpụta njikọ ịntanetị ọ bụla. Biko lelee njikọ ịntanetị gị wee mepee ngwa.",
+    "no_internet_content_2": "Anyị enweghị ike ịchọpụta njikọ ịntanetị ọ bụla. Biko lelee njikọ ịntanetị gị.",
+    "internet_connected": "Ejikọrọ ịntanetị",
+    "internet_let": "Ka anyị kporie ndụ."
 }

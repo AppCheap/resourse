@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Aţi uitat parola",
     "forgot_password_appbar": "Aţi uitat parola",
     "forgot_password_description": "Introduceți adresa de e-mail a contului și vă vom trimite instrucțiuni despre cum să vă resetați parola",
+    "forgot_password_desc_app": "Vă rugăm să introduceți numele dvs. de utilizator pentru a primi un cod de confirmare. Vom trimite codul la adresa de e-mail care este înregistrată pentru contul dvs.",
+    "forgot_password_note": "Notă: adresa dvs. de e-mail trebuie să fie validă și nu uitați să verificați căsuța de e-mail nedorită.",
+    "forgot_password": "Trimite",
+    "forgot_password_reset_password": "Reseteaza parola",
     "forgot_password_btn": "Trimite email",
     "forgot_password_success": "Accesați e-mailul pentru a obține parola",
     "_change_password": "Schimbaţi parola",
@@ -796,5 +800,11 @@
     "timeago_a_month": "aproximativ o lună",
     "timeago_months": "{months} luni",
     "timeago_a_year": "aproape un an",
-    "timeago_years": "{years} ani"
+    "timeago_years": "{years} ani",
+    "_internet": "Internet",
+    "no_internet": "Fără conexiune internet",
+    "no_internet_content_1": "Nu putem detecta nicio conexiune la internet. Vă rugăm să vă verificați conexiunea la internet și să redeschideți aplicația.",
+    "no_internet_content_2": "Nu putem detecta nicio conexiune la internet. Vă rugăm să vă verificați conexiunea la internet.",
+    "internet_connected": "Conectat la Internet",
+    "internet_let": "Să ne bucurăm de ea."
 }

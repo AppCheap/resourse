@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Mwayiwala mawu achinsinsi olowera",
     "forgot_password_appbar": "Mwayiwala mawu achinsinsi olowera",
     "forgot_password_description": "Lowetsani imelo adilesi ya akaunti yanu ndipo tikutumizirani malangizo amomwe mungakhazikitsirenso mawu achinsinsi",
+    "forgot_password_desc_app": "Chonde lowetsani dzina lanu lolowera kuti mulandire khodi yotsimikizira. Tikutumiza khodi ku adilesi ya imelo yomwe idalembetsedwa ku akaunti yanu.",
+    "forgot_password_note": "Chidziwitso: Imelo yanu iyenera kukhala yovomerezeka ndipo musaiwale kuwona bokosi lanu la Junk.",
+    "forgot_password": "Tumizani",
+    "forgot_password_reset_password": "Bwezerani Achinsinsi",
     "forgot_password_btn": "Tumizani Imelo",
     "forgot_password_success": "Pitani ku imelo yanu kuti mupeze mawu achinsinsi",
     "_change_password": "Sinthani mawu achinsinsi",
@@ -796,5 +800,11 @@
     "timeago_a_month": "pafupifupi mwezi umodzi",
     "timeago_months": "{months} miyezi",
     "timeago_a_year": "pafupifupi chaka",
-    "timeago_years": "{years} zaka"
+    "timeago_years": "{years} zaka",
+    "_internet": "intaneti",
+    "no_internet": "Palibe intaneti",
+    "no_internet_content_1": "Sitingazindikire kulumikizana kulikonse kwa intaneti. Chonde onani kulumikizidwa kwanu pa intaneti ndikutsegulanso pulogalamu.",
+    "no_internet_content_2": "Sitingazindikire kulumikizana kulikonse kwa intaneti. Chonde onani intaneti yanu.",
+    "internet_connected": "Intaneti Yolumikizidwa",
+    "internet_let": "Tiyeni tisangalale nazo."
 }

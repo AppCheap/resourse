@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Zabudol si heslo",
     "forgot_password_appbar": "Zabudol si heslo",
     "forgot_password_description": "Zadajte e-mailovú adresu svojho účtu a my vám pošleme pokyny na obnovenie hesla",
+    "forgot_password_desc_app": "Ak chcete získať potvrdzovací kód, zadajte svoje používateľské meno. Kód vám pošleme na e-mailovú adresu, ktorá je registrovaná pre váš účet.",
+    "forgot_password_note": "Poznámka: Vaša e-mailová adresa musí byť platná a nezabudnite si skontrolovať nevyžiadanú poštu.",
+    "forgot_password": "Odoslať",
+    "forgot_password_reset_password": "Obnoviť heslo",
     "forgot_password_btn": "Poslať email",
     "forgot_password_success": "Prejdite na svoj e-mail a získajte heslo",
     "_change_password": "Zmeniť heslo",
@@ -796,5 +800,11 @@
     "timeago_a_month": "asi mesiac",
     "timeago_months": "{months} mesiacov",
     "timeago_a_year": "asi rok",
-    "timeago_years": "{years} rokov"
+    "timeago_years": "{years} rokov",
+    "_internet": "internet",
+    "no_internet": "Žiadne internetové pripojenie",
+    "no_internet_content_1": "Nemôžeme zistiť žiadne internetové pripojenie. Skontrolujte svoje internetové pripojenie a znova otvorte aplikáciu.",
+    "no_internet_content_2": "Nemôžeme zistiť žiadne internetové pripojenie. Skontrolujte svoje internetové pripojenie.",
+    "internet_connected": "Pripojené k internetu",
+    "internet_let": "Poďme si to užiť."
 }

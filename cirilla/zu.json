@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Ukhohlwe iphasiwedi",
     "forgot_password_appbar": "Ukhohlwe iphasiwedi",
     "forgot_password_description": "Faka ikheli le-imeyili le-akhawunti yakho futhi sizokuthumela imiyalelo yokuthi ulenza kanjani kabusha iphasiwedi yakho",
+    "forgot_password_desc_app": "Sicela ufake igama lakho lomsebenzisi ukuze uthole ikhodi yokuqinisekisa. Sizothumela ikhodi ekhelini le-imeyili elibhaliselwe i-akhawunti yakho.",
+    "forgot_password_note": "Qaphela: Ikheli lakho le-imeyili kufanele livumeleke futhi ungakhohlwa ukuhlola ibhokisi lakho lokungenayo le-Junk.",
+    "forgot_password": "Thumela",
+    "forgot_password_reset_password": "Setha kabusha Iphasiwedi",
     "forgot_password_btn": "Thumela I-imeyili",
     "forgot_password_success": "Thumela i-imeyili yakho ukuze uthole iphasiwedi",
     "_change_password": "SHINTSHA iphasiwedi",
@@ -796,5 +800,11 @@
     "timeago_a_month": "cishe inyanga",
     "timeago_months": "{months} izinyanga",
     "timeago_a_year": "cishe unyaka",
-    "timeago_years": "{years} iminyaka"
+    "timeago_years": "{years} iminyaka",
+    "_internet": "internet",
+    "no_internet": "Alukho Uxhumo Lwe-inthanethi",
+    "no_internet_content_1": "Asikwazi ukubona noma yikuphi ukuxhumana kwe-inthanethi. Sicela uhlole uxhumano lwakho lwe-inthanethi bese uvule kabusha uhlelo lokusebenza.",
+    "no_internet_content_2": "Asikwazi ukubona noma yikuphi ukuxhumana kwe-inthanethi. Sicela uhlole uxhumano lwakho lwe-inthanethi.",
+    "internet_connected": "I-inthanethi Ixhunyiwe",
+    "internet_let": "Asijabulele."
 }

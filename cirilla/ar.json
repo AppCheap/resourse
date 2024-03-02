@@ -87,6 +87,10 @@
     "_forgot_password_screen": "هل نسيت كلمة السر",
     "forgot_password_appbar": "هل نسيت كلمة السر",
     "forgot_password_description": "أدخل عنوان البريد الإلكتروني لحسابك وسنرسل تعليمات حول كيفية إعادة تعيين كلمة المرور الخاصة بك",
+    "forgot_password_desc_app": "الرجاء إدخال اسم المستخدم الخاص بك لتلقي رمز التأكيد. سنرسل الرمز إلى عنوان البريد الإلكتروني المسجل لحسابك.",
+    "forgot_password_note": "ملحوظة: يجب أن يكون عنوان بريدك الإلكتروني صالحًا ولا تنس التحقق من صندوق البريد غير الهام لديك.",
+    "forgot_password": "يرسل",
+    "forgot_password_reset_password": "إعادة تعيين كلمة المرور",
     "forgot_password_btn": "ارسل بريد الكتروني",
     "forgot_password_success": "اذهب إلى بريدك الإلكتروني للحصول على كلمة المرور",
     "_change_password": "تغيير كلمة المرور",
@@ -796,5 +800,11 @@
     "timeago_a_month": "شهر تقريبا",
     "timeago_months": "{months} شهر",
     "timeago_a_year": "حوالي سنة",
-    "timeago_years": "{years} سنوات"
+    "timeago_years": "{years} سنوات",
+    "_internet": "إنترنت",
+    "no_internet": "لا يوجد اتصال بالإنترنت",
+    "no_internet_content_1": "لا يمكننا الكشف عن أي اتصال بالإنترنت. يرجى التحقق من اتصالك بالإنترنت وإعادة فتح التطبيق.",
+    "no_internet_content_2": "لا يمكننا الكشف عن أي اتصال بالإنترنت. الرجاء التحقق من اتصال الانترنت الخاص بك.",
+    "internet_connected": "متصل بالإنترنت",
+    "internet_let": "دعونا نستمتع."
 }

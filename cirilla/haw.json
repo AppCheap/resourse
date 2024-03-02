@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Poina ka ʻōlelo huna",
     "forgot_password_appbar": "Poina ka ʻōlelo huna",
     "forgot_password_description": "E hoʻokomo i kāu helu leka uila a e hoʻouna mākou i nā ʻōlelo aʻoaʻo pehea e hoʻonohonoho hou ai i kāu ʻōlelo huna",
+    "forgot_password_desc_app": "E ʻoluʻolu e hoʻokomo i kou inoa inoa no ka loaʻa ʻana o kahi code hōʻoia. E hoʻouna mākou i ke code i ka leka uila i hoʻopaʻa inoa ʻia no kāu moʻokāki.",
+    "forgot_password_note": "'Ōlelo Aʻo: Pono kāu leka uila a mai poina e nānā i kāu pahu pahu Junk.",
+    "forgot_password": "Hoʻouna",
+    "forgot_password_reset_password": "Hoʻoponopono hou i ka ʻōlelo huna",
     "forgot_password_btn": "Hoʻouna leka uila",
     "forgot_password_success": "E hele i kāu leka uila e kiʻi i ka ʻōlelo huna",
     "_change_password": "Hoʻololi i ka ʻōlelo huna",
@@ -796,5 +800,11 @@
     "timeago_a_month": "ma kahi o hoʻokahi mahina",
     "timeago_months": "{months} mahina",
     "timeago_a_year": "ma kahi o hoʻokahi makahiki",
-    "timeago_years": "{years} makahiki"
+    "timeago_years": "{years} makahiki",
+    "_internet": "pūnaewele puni honua",
+    "no_internet": "ʻAʻohe pili pūnaewele",
+    "no_internet_content_1": "ʻAʻole hiki iā mākou ke ʻike i kahi pilina pūnaewele. E ʻoluʻolu e nānā i kāu pili pūnaewele a wehe hou i ka polokalamu.",
+    "no_internet_content_2": "ʻAʻole hiki iā mākou ke ʻike i kahi pilina pūnaewele. E ʻoluʻolu e nānā i kāu pili pūnaewele.",
+    "internet_connected": "Pili pūnaewele",
+    "internet_let": "E leʻaleʻa kāua."
 }

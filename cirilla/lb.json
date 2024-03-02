@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Passwuert vergiess",
     "forgot_password_appbar": "Passwuert vergiess",
     "forgot_password_description": "Gitt Är E-Mailadress vun Ärem Kont a mir schécken Instruktioune wéi Dir Äert Passwuert zrécksetzt",
+    "forgot_password_desc_app": "Gitt weg Äre Benotzernumm fir e Confirmatiounscode ze kréien. Mir schécken de Code op d'E-Mailadress déi fir Äre Kont registréiert ass.",
+    "forgot_password_note": "Notiz: Är E-Mailadress muss gëlteg sinn a vergiesst net Är Junk Inbox ze kontrolléieren.",
+    "forgot_password": "Schécken",
+    "forgot_password_reset_password": "Reset Passwuert",
     "forgot_password_btn": "E-Mail schécken",
     "forgot_password_success": "Gitt Är E-Mail fir Passwuert ze kréien",
     "_change_password": "Passwuert änneren",
@@ -796,5 +800,11 @@
     "timeago_a_month": "ongeféier engem Mount",
     "timeago_months": "{months} Méint",
     "timeago_a_year": "ongeféier engem Joer",
-    "timeago_years": "{years} Joer"
+    "timeago_years": "{years} Joer",
+    "_internet": "Internet",
+    "no_internet": "Keng Internetverbindung",
+    "no_internet_content_1": "Mir kënnen keng Internetverbindung erkennen. Iwwerpréift w.e.g. Är Internetverbindung an oppen d'App nei.",
+    "no_internet_content_2": "Mir kënnen keng Internetverbindung erkennen. Kontrolléiert w.e.g. Är Internetverbindung.",
+    "internet_connected": "Internet verbonne",
+    "internet_let": "Loosst eis et genéissen."
 }

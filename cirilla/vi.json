@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Quên mật khẩu",
     "forgot_password_appbar": "Quên mật khẩu",
     "forgot_password_description": "Nhập địa chỉ email tài khoản của bạn và chúng tôi sẽ gửi hướng dẫn về cách đặt lại mật khẩu của bạn",
+    "forgot_password_desc_app": "Vui lòng nhập tên người dùng của bạn để nhận mã xác nhận. Chúng tôi sẽ gửi mã đến địa chỉ email đã đăng ký tài khoản của bạn.",
+    "forgot_password_note": "Lưu ý: Địa chỉ email của bạn phải hợp lệ và đừng quên kiểm tra hộp thư Thư rác.",
+    "forgot_password": "Gửi",
+    "forgot_password_reset_password": "Đặt lại mật khẩu",
     "forgot_password_btn": "Gửi email",
     "forgot_password_success": "Vào email của bạn để lấy mật khẩu",
     "_change_password": "Đổi mật khẩu",
@@ -796,5 +800,11 @@
     "timeago_a_month": "khoảng một tháng",
     "timeago_months": "{months} tháng",
     "timeago_a_year": "khoảng một năm",
-    "timeago_years": "{years} năm"
+    "timeago_years": "{years} năm",
+    "_internet": "Internet",
+    "no_internet": "Không có kết nối Internet",
+    "no_internet_content_1": "Chúng tôi không thể phát hiện bất kỳ kết nối internet nào. Vui lòng kiểm tra kết nối internet của bạn và mở lại ứng dụng.",
+    "no_internet_content_2": "Chúng tôi không thể phát hiện bất kỳ kết nối internet nào. Xin vui lòng kiểm tra kết nối Internet của bạn.",
+    "internet_connected": "Đã kết nối Internet",
+    "internet_let": "Hãy tận hưởng nó."
 }

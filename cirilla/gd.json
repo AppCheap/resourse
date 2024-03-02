@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Dhìochuimhnich thu am facal-faire",
     "forgot_password_appbar": "Facal-faire air dearmad",
     "forgot_password_description": "Cuir a-steach seòladh puist-d do chunntas agus cuiridh sinn stiùireadh air mar as urrainn dhut am facal-faire agad ath-shuidheachadh",
+    "forgot_password_desc_app": "Feuch an cuir thu a-steach d’ ainm-cleachdaidh gus còd dearbhaidh fhaighinn. Cuiridh sinn an còd chun t-seòladh post-d a tha clàraichte airson do chunntas.",
+    "forgot_password_note": "Nota: Feumaidh do sheòladh puist-d a bhith dligheach agus na dìochuimhnich sùil a thoirt air a’ bhogsa a-steach sgudail agad.",
+    "forgot_password": "Seol",
+    "forgot_password_reset_password": "Ath-shuidhich am facal-faire",
     "forgot_password_btn": "Cuir post-d",
     "forgot_password_success": "Rach am post-d agad gus am facal-faire fhaighinn",
     "_change_password": "Atharraich Facal-faire",
@@ -796,5 +800,11 @@
     "timeago_a_month": "mu mhìos",
     "timeago_months": "{months} mìosan",
     "timeago_a_year": "mu bhliadhna",
-    "timeago_years": "{years} bliadhna"
+    "timeago_years": "{years} bliadhna",
+    "_internet": "eadar-lìon",
+    "no_internet": "Gun cheangal eadar-lìn",
+    "no_internet_content_1": "Chan urrainn dhuinn ceangal eadar-lìn sam bith a lorg. Feuch an toir thu sùil air a’ cheangal eadar-lìn agad agus fosgail an aplacaid a-rithist.",
+    "no_internet_content_2": "Chan urrainn dhuinn ceangal eadar-lìn sam bith a lorg. Feuch an toir thu sùil air a’ cheangal eadar-lìn agad.",
+    "internet_connected": "Eadar-lìon ceangailte",
+    "internet_let": "Gabhamaid tlachd às."
 }

@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Pasahitza ahaztua",
     "forgot_password_appbar": "Pasahitza ahaztua",
     "forgot_password_description": "Sartu zure kontuko helbide elektronikoa eta pasahitza berrezartzeko argibideak bidaliko dizkizugu",
+    "forgot_password_desc_app": "Mesedez, idatzi zure erabiltzaile-izena berrespen-kode bat jasotzeko. Kodea zure kontuan erregistratuta dagoen helbide elektronikora bidaliko dugu.",
+    "forgot_password_note": "Oharra: Zure helbide elektronikoak baliozkoa izan behar du eta ez ahaztu zabor-ontzia egiaztatzea.",
+    "forgot_password": "Bidali",
+    "forgot_password_reset_password": "Berrezarri pasahitza",
     "forgot_password_btn": "Bidali mezu elektronikoa",
     "forgot_password_success": "Joan zure e-posta pasahitza lortzeko",
     "_change_password": "Aldatu pasahitza",
@@ -796,5 +800,11 @@
     "timeago_a_month": "hilabete inguru",
     "timeago_months": "{months} hilabete",
     "timeago_a_year": "urtebete inguru",
-    "timeago_years": "{years} urte"
+    "timeago_years": "{years} urte",
+    "_internet": "internet",
+    "no_internet": "Ez dago Interneteko konexiorik",
+    "no_internet_content_1": "Ezin dugu Interneteko konexiorik detektatu. Mesedez, egiaztatu zure Interneteko konexioa eta ireki berriro aplikazioa.",
+    "no_internet_content_2": "Ezin dugu Interneteko konexiorik detektatu. Mesedez, egiaztatu zure Interneteko konexioa.",
+    "internet_connected": "Internet Konektatuta",
+    "internet_let": "Goza dezagun."
 }

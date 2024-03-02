@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Unustasid parooli",
     "forgot_password_appbar": "Unustasid parooli",
     "forgot_password_description": "Sisestage oma konto e-posti aadress ja me saadame juhised parooli lähtestamiseks",
+    "forgot_password_desc_app": "Kinnituskoodi saamiseks sisestage oma kasutajanimi. Saadame koodi teie konto jaoks registreeritud e-posti aadressile.",
+    "forgot_password_note": "Märkus. Teie e-posti aadress peab olema kehtiv ja ärge unustage kontrollida oma rämpspostkasti.",
+    "forgot_password": "Saada",
+    "forgot_password_reset_password": "Lähtestage parool",
     "forgot_password_btn": "Saada email",
     "forgot_password_success": "Parooli saamiseks minge oma meilile",
     "_change_password": "Muuda salasõna",
@@ -796,5 +800,11 @@
     "timeago_a_month": "umbes kuu aega",
     "timeago_months": "{months} kuud",
     "timeago_a_year": "umbes aasta",
-    "timeago_years": "{years} aastat"
+    "timeago_years": "{years} aastat",
+    "_internet": "internet",
+    "no_internet": "Interneti-ühendus puudub",
+    "no_internet_content_1": "Me ei tuvasta Interneti-ühendust. Kontrollige oma Interneti-ühendust ja avage rakendus uuesti.",
+    "no_internet_content_2": "Me ei tuvasta Interneti-ühendust. Kontrollige oma Interneti-ühendust.",
+    "internet_connected": "Internetiga ühendatud",
+    "internet_let": "Nautigem seda."
 }

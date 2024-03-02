@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Zapomniałeś hasła",
     "forgot_password_appbar": "Zapomniałeś hasła",
     "forgot_password_description": "Wpisz adres e-mail swojego konta, a my wyślemy instrukcje dotyczące resetowania hasła",
+    "forgot_password_desc_app": "Wprowadź swoją nazwę użytkownika, aby otrzymać kod potwierdzający. Wyślemy kod na adres e-mail zarejestrowany dla Twojego konta.",
+    "forgot_password_note": "Uwaga: Twój adres e-mail musi być prawidłowy i nie zapomnij sprawdzić skrzynki odbiorczej-śmieci.",
+    "forgot_password": "Wysłać",
+    "forgot_password_reset_password": "Zresetuj hasło",
     "forgot_password_btn": "Wysłać email",
     "forgot_password_success": "Przejdź do swojego adresu e-mail, aby uzyskać hasło",
     "_change_password": "Zmień hasło",
@@ -796,5 +800,11 @@
     "timeago_a_month": "około miesiąca",
     "timeago_months": "{months} miesiące",
     "timeago_a_year": "około roku",
-    "timeago_years": "{years} lat"
+    "timeago_years": "{years} lat",
+    "_internet": "Internet",
+    "no_internet": "Brak połączenia z internetem",
+    "no_internet_content_1": "Nie możemy wykryć żadnego połączenia z Internetem. Sprawdź swoje połączenie internetowe i ponownie otwórz aplikację.",
+    "no_internet_content_2": "Nie możemy wykryć żadnego połączenia z Internetem. Proszę sprawdzić swoje połączenie z internetem.",
+    "internet_connected": "Połączony z Internetem",
+    "internet_let": "Cieszmy się tym."
 }

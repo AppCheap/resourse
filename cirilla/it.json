@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Ha dimenticato la password",
     "forgot_password_appbar": "Ha dimenticato la password",
     "forgot_password_description": "Inserisci l'indirizzo email del tuo account e ti invieremo le istruzioni su come reimpostare la password",
+    "forgot_password_desc_app": "Inserisci il tuo nome utente per ricevere un codice di conferma. Invieremo il codice all'indirizzo email registrato per il tuo account.",
+    "forgot_password_note": "Nota: il tuo indirizzo email deve essere valido e non dimenticare di controllare la posta indesiderata.",
+    "forgot_password": "Inviare",
+    "forgot_password_reset_password": "Resetta la password",
     "forgot_password_btn": "Invia una email",
     "forgot_password_success": "Vai alla tua email per ottenere la password",
     "_change_password": "Cambiare la password",
@@ -796,5 +800,11 @@
     "timeago_a_month": "circa un mese",
     "timeago_months": "{months} mesi",
     "timeago_a_year": "circa un anno",
-    "timeago_years": "{years} anni"
+    "timeago_years": "{years} anni",
+    "_internet": "Internet",
+    "no_internet": "Nessuna connessione internet",
+    "no_internet_content_1": "Non riusciamo a rilevare alcuna connettività Internet. Controlla la connessione Internet e riapri l'app.",
+    "no_internet_content_2": "Non riusciamo a rilevare alcuna connettività Internet. Per favore controlla la tua connessione Internet.",
+    "internet_connected": "Connesso a Internet",
+    "internet_let": "Godiamocelo."
 }

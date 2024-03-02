@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Nakalimutan ang password",
     "forgot_password_appbar": "Nakalimutan ang password",
     "forgot_password_description": "Ilagay ang email address ng iyong account at magpapadala kami ng mga tagubilin kung paano i-reset ang iyong password",
+    "forgot_password_desc_app": "Mangyaring ipasok ang iyong username upang makatanggap ng confirmation code. Ipapadala namin ang code sa email address na nakarehistro para sa iyong account.",
+    "forgot_password_note": "Tandaan: Dapat na wasto ang iyong email address at huwag kalimutang suriin ang iyong Junk inbox.",
+    "forgot_password": "Ipadala",
+    "forgot_password_reset_password": "I-reset ang Password",
     "forgot_password_btn": "Magpadala ng Email",
     "forgot_password_success": "Pumunta sa iyong email upang makakuha ng password",
     "_change_password": "Palitan ANG password",
@@ -796,5 +800,11 @@
     "timeago_a_month": "mga isang buwan",
     "timeago_months": "{months} buwan",
     "timeago_a_year": "mga isang taon",
-    "timeago_years": "{years} taon"
+    "timeago_years": "{years} taon",
+    "_internet": "internet",
+    "no_internet": "Walang Koneksyon sa Internet",
+    "no_internet_content_1": "Hindi namin matukoy ang anumang koneksyon sa internet. Pakisuri ang iyong koneksyon sa internet at muling buksan ang app.",
+    "no_internet_content_2": "Hindi namin matukoy ang anumang koneksyon sa internet. Pakisuri ang iyong koneksyon sa internet.",
+    "internet_connected": "Nakakonekta sa Internet",
+    "internet_let": "I-enjoy natin ito."
 }

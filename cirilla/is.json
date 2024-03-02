@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Gleymt lykilorð",
     "forgot_password_appbar": "Gleymt lykilorð",
     "forgot_password_description": "Sláðu inn netfang reikningsins þíns og við sendum leiðbeiningar um hvernig eigi að endurstilla lykilorðið þitt",
+    "forgot_password_desc_app": "Vinsamlegast sláðu inn notandanafn þitt til að fá staðfestingarkóða. Við munum senda kóðann á netfangið sem er skráð fyrir reikninginn þinn.",
+    "forgot_password_note": "Athugið: Netfangið þitt verður að vera gilt og ekki gleyma að athuga ruslpósthólfið þitt.",
+    "forgot_password": "Senda",
+    "forgot_password_reset_password": "Endur stilla lykilorð",
     "forgot_password_btn": "Senda tölvupóst",
     "forgot_password_success": "Farðu í tölvupóstinn þinn til að fá lykilorð",
     "_change_password": "Breyta lykilorði",
@@ -796,5 +800,11 @@
     "timeago_a_month": "um mánuð",
     "timeago_months": "{months} mánuðir",
     "timeago_a_year": "um eitt ár",
-    "timeago_years": "{years} ár"
+    "timeago_years": "{years} ár",
+    "_internet": "internetið",
+    "no_internet": "Engin nettenging",
+    "no_internet_content_1": "Við getum ekki greint neina nettengingu. Athugaðu nettenginguna þína og opnaðu appið aftur.",
+    "no_internet_content_2": "Við getum ekki greint neina nettengingu. Athugaðu nettenginguna þína.",
+    "internet_connected": "Nettengdur",
+    "internet_let": "Við skulum njóta þess."
 }

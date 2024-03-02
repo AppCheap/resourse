@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Ilmay erayga sirta ah",
     "forgot_password_appbar": "Furaha la ilaaway",
     "forgot_password_description": "Geli ciwaanka iimaylka akoonkaaga waxaanu kuu soo diri doonaa tilmaamo ku saabsan sida dib loogu habeynayo eraygaaga sirta ah",
+    "forgot_password_desc_app": "Fadlan geli magacaaga isticmaale si aad u hesho koodka xaqiijinta. Waxaan u diri doonaa koodka ciwaanka iimaylka ee ka diiwaan gashan akoonkaaga.",
+    "forgot_password_note": "Fiiro gaar ah: Ciwaanka iimaylkaagu waa inuu sax yahay hana iloobin inaad hubiso sanduuqaaga junk",
+    "forgot_password": "Dir",
+    "forgot_password_reset_password": "Dib u deji erayga sirta ah",
     "forgot_password_btn": "Soo dir Email",
     "forgot_password_success": "Tag iimaylkaga si aad u hesho erayga sirta ah",
     "_change_password": "Badalida Lambarka sirta ah",
@@ -796,5 +800,11 @@
     "timeago_a_month": "qiyaastii bil",
     "timeago_months": "{months} bilood",
     "timeago_a_year": "ilaa hal sano",
-    "timeago_years": "{years}"
+    "timeago_years": "{years}",
+    "_internet": "internetka",
+    "no_internet": "Xiriir internet ma jiro",
+    "no_internet_content_1": "Ma ogaan karno isku xirnaanta internetka. Fadlan hubi xidhiidhkaaga intarneedka oo dib u fur abka.",
+    "no_internet_content_2": "Ma ogaan karno isku xirnaanta internetka. Fadlan hubi xidhiidhkaaga intarneedka",
+    "internet_connected": "Internet ku xidhan",
+    "internet_let": "Aan ku raaxaysanno."
 }

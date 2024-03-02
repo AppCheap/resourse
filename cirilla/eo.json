@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Ĉu vi forgesis la pasvorton",
     "forgot_password_appbar": "Ĉu vi forgesis la pasvorton",
     "forgot_password_description": "Enigu vian kontan retadreson kaj ni sendos instrukciojn pri kiel restarigi vian pasvorton",
+    "forgot_password_desc_app": "Bonvolu enigi vian uzantnomon por ricevi konfirmkodon. Ni sendos la kodon al la retadreso registrita por via konto.",
+    "forgot_password_note": "Noto: Via retadreso devas esti valida kaj ne forgesu kontroli vian Ruban enirkeston.",
+    "forgot_password": "Sendu",
+    "forgot_password_reset_password": "Restarigi Pasvorton",
     "forgot_password_btn": "Sendu Retpoŝton",
     "forgot_password_success": "Iru vian retpoŝton por ricevi pasvorton",
     "_change_password": "Ŝanĝi Pasvorton",
@@ -796,5 +800,11 @@
     "timeago_a_month": "ĉirkaŭ monato",
     "timeago_months": "{months} monatoj",
     "timeago_a_year": "ĉirkaŭ unu jaro",
-    "timeago_years": "{years} jaroj"
+    "timeago_years": "{years} jaroj",
+    "_internet": "interreto",
+    "no_internet": "Neniu Interreta Konekto",
+    "no_internet_content_1": "Ni ne povas detekti ajnan interretan konekteblecon. Bonvolu kontroli vian interretan konekton kaj remalfermi la apon.",
+    "no_internet_content_2": "Ni ne povas detekti ajnan interretan konekteblecon. Bonvolu kontroli vian interretan konekton.",
+    "internet_connected": "Interreto Konektita",
+    "internet_let": "Ni ĝuu ĝin."
 }

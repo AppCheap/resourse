@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Paroly ýatdan çykardy",
     "forgot_password_appbar": "Paroly ýatdan çykardy",
     "forgot_password_description": "Hasabyňyzyň e-poçta salgysyny giriziň we parolyňyzy nädip täzeden düzmelidigi barada görkezmeler ibereris",
+    "forgot_password_desc_app": "Tassyklama kody almak üçin ulanyjy adyňyzy giriziň. Kody hasabyňyz üçin hasaba alnan e-poçta salgysyna ibereris.",
+    "forgot_password_note": "Bellik: E-poçta salgyňyz dogry bolmaly we gereksiz gutyňyzy barlamagy ýatdan çykarmaň.",
+    "forgot_password": "Iber",
+    "forgot_password_reset_password": "Paroly täzeden düzmek",
     "forgot_password_btn": "E-poçta iber",
     "forgot_password_success": "Parol almak üçin e-poçtaňyza gidiň",
     "_change_password": "Paroly üýtgetmek",
@@ -796,5 +800,11 @@
     "timeago_a_month": "bir aý töweregi",
     "timeago_months": "{months} aý",
     "timeago_a_year": "bir ýyl töweregi",
-    "timeago_years": "{years} ýyl"
+    "timeago_years": "{years} ýyl",
+    "_internet": "internet",
+    "no_internet": "Internet birikmesi ýok",
+    "no_internet_content_1": "Hiç hili internet birikmesini tapyp bilmeris. Internet birikmäňizi barlaň we programmany açyň.",
+    "no_internet_content_2": "Hiç hili internet birikmesini tapyp bilmeris. Internet birikmäňizi barlaň.",
+    "internet_connected": "Internet birikdirildi",
+    "internet_let": "Geliň, lezzet alalyň."
 }

@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Tidak ingat kata sandi",
     "forgot_password_appbar": "Tidak ingat kata sandi",
     "forgot_password_description": "Masukkan alamat email akun Anda dan kami akan mengirimkan instruksi tentang cara mengatur ulang kata sandi Anda",
+    "forgot_password_desc_app": "Silakan masukkan nama pengguna Anda untuk menerima kode konfirmasi. Kami akan mengirimkan kode ke alamat email yang terdaftar untuk akun Anda.",
+    "forgot_password_note": "Catatan: Alamat email Anda harus valid dan jangan lupa untuk memeriksa kotak masuk Sampah Anda.",
+    "forgot_password": "Mengirim",
+    "forgot_password_reset_password": "Atur Ulang Kata Sandi",
     "forgot_password_btn": "Mengirim email",
     "forgot_password_success": "Buka email Anda untuk mendapatkan kata sandi",
     "_change_password": "Ganti kata sandi",
@@ -796,5 +800,11 @@
     "timeago_a_month": "sekitar sebulan",
     "timeago_months": "{months} bulan",
     "timeago_a_year": "sekitar setahun",
-    "timeago_years": "{years} tahun"
+    "timeago_years": "{years} tahun",
+    "_internet": "Internet",
+    "no_internet": "Tidak ada koneksi internet",
+    "no_internet_content_1": "Kami tidak dapat mendeteksi konektivitas internet apa pun. Silakan periksa koneksi internet Anda dan buka kembali aplikasi.",
+    "no_internet_content_2": "Kami tidak dapat mendeteksi konektivitas internet apa pun. Silakan periksa koneksi internet Anda.",
+    "internet_connected": "Terhubung Internet",
+    "internet_let": "Mari kita nikmati."
 }

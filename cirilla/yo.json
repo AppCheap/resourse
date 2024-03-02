@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Gbagbe ọrọ aṣina bi",
     "forgot_password_appbar": "Gbagbe ọrọ aṣina bi",
     "forgot_password_description": "Tẹ adirẹsi imeeli akọọlẹ akọọlẹ rẹ sii ati pe a yoo fi awọn ilana ranṣẹ lori bi o ṣe le tun ọrọ igbaniwọle rẹ to",
+    "forgot_password_desc_app": "Jọwọ tẹ orukọ olumulo rẹ sii lati gba koodu idaniloju kan. A yoo fi koodu ranṣẹ si adirẹsi imeeli ti o forukọsilẹ fun akọọlẹ rẹ.",
+    "forgot_password_note": "Akiyesi: Adirẹsi imeeli rẹ gbọdọ wulo ati maṣe gbagbe lati ṣayẹwo apo-iwọle Junk rẹ.",
+    "forgot_password": "Firanṣẹ",
+    "forgot_password_reset_password": "Tun Ọrọigbaniwọle to",
     "forgot_password_btn": "Firanṣẹ Imeeli",
     "forgot_password_success": "Lọ imeeli rẹ lati gba ọrọigbaniwọle",
     "_change_password": "Tun oruko akowole re se",
@@ -796,5 +800,11 @@
     "timeago_a_month": "nipa osu kan",
     "timeago_months": "{months} osu",
     "timeago_a_year": "nipa odun kan",
-    "timeago_years": "{years} odun"
+    "timeago_years": "{years} odun",
+    "_internet": "ayelujara",
+    "no_internet": "Ko si Asopọ Ayelujara",
+    "no_internet_content_1": "A ko le ri eyikeyi isopọ Ayelujara. Jọwọ ṣayẹwo asopọ intanẹẹti rẹ ki o tun ṣii app.",
+    "no_internet_content_2": "A ko le ri eyikeyi isopọ Ayelujara. Jọwọ ṣayẹwo asopọ intanẹẹti rẹ.",
+    "internet_connected": "Ti sopọ Ayelujara",
+    "internet_let": "Jẹ ki a gbadun rẹ."
 }

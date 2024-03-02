@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Lupa kata laluan",
     "forgot_password_appbar": "Lupa kata laluan",
     "forgot_password_description": "Masukkan alamat e-mel akaun anda dan kami akan menghantar arahan tentang cara untuk menetapkan semula kata laluan anda",
+    "forgot_password_desc_app": "Sila masukkan nama pengguna anda untuk menerima kod pengesahan. Kami akan menghantar kod ke alamat e-mel yang didaftarkan untuk akaun anda.",
+    "forgot_password_note": "Nota: Alamat e-mel anda mestilah sah dan jangan lupa menyemak peti masuk Sarap anda.",
+    "forgot_password": "Hantar",
+    "forgot_password_reset_password": "Menetapkan semula kata laluan",
     "forgot_password_btn": "Menghantar e-mel",
     "forgot_password_success": "Pergi e-mel anda untuk mendapatkan kata laluan",
     "_change_password": "Tukar kata laluan",
@@ -796,5 +800,11 @@
     "timeago_a_month": "lebih kurang sebulan",
     "timeago_months": "{months} bulan",
     "timeago_a_year": "lebih kurang setahun",
-    "timeago_years": "{years} tahun"
+    "timeago_years": "{years} tahun",
+    "_internet": "internet",
+    "no_internet": "Tiada sambungan internet",
+    "no_internet_content_1": "Kami tidak dapat mengesan sebarang sambungan internet. Sila semak sambungan internet anda dan buka semula apl.",
+    "no_internet_content_2": "Kami tidak dapat mengesan sebarang sambungan internet. Sila semak sambungan internet anda.",
+    "internet_connected": "Bersambung Internet",
+    "internet_let": "Jom nikmatinya."
 }

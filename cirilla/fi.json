@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Unohtuiko salasana",
     "forgot_password_appbar": "Unohtuiko salasana",
     "forgot_password_description": "Anna tilisi sähköpostiosoite, niin lähetämme ohjeet salasanan vaihtamiseen",
+    "forgot_password_desc_app": "Anna käyttäjätunnuksesi saadaksesi vahvistuskoodin. Lähetämme koodin sähköpostiosoitteeseen, joka on rekisteröity tilillesi.",
+    "forgot_password_note": "Huomautus: Sähköpostiosoitteesi on oltava voimassa, äläkä unohda tarkistaa roskapostilaatikkoasi.",
+    "forgot_password": "Lähettää",
+    "forgot_password_reset_password": "Nollaa salasana",
     "forgot_password_btn": "Lähettää sähköpostia",
     "forgot_password_success": "Mene sähköpostiisi saadaksesi salasanan",
     "_change_password": "Vaihda salasana",
@@ -796,5 +800,11 @@
     "timeago_a_month": "noin kuukausi",
     "timeago_months": "{months} kuukautta",
     "timeago_a_year": "noin vuosi",
-    "timeago_years": "{years} vuotta"
+    "timeago_years": "{years} vuotta",
+    "_internet": "Internet",
+    "no_internet": "Ei Internet-yhteyttä",
+    "no_internet_content_1": "Emme voi havaita Internet-yhteyttä. Tarkista internetyhteytesi ja avaa sovellus uudelleen.",
+    "no_internet_content_2": "Emme voi havaita Internet-yhteyttä. Tarkista Internet-yhteytesi.",
+    "internet_connected": "Internet-yhteys",
+    "internet_let": "Nautitaan siitä."
 }

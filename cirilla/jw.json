@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Kelalen sandi",
     "forgot_password_appbar": "Kelalen Sandi",
     "forgot_password_description": "Ketik alamat email akun lan kita bakal ngirim instruksi babagan cara ngreset tembung sandhi",
+    "forgot_password_desc_app": "Mangga ketik jeneng pangguna kanggo nampa kode konfirmasi. Kita bakal ngirim kode menyang alamat email sing didaftar kanggo akun sampeyan.",
+    "forgot_password_note": "Cathetan: Alamat email sampeyan kudu bener lan aja lali mriksa kothak mlebu Junk.",
+    "forgot_password": "Ngirim",
+    "forgot_password_reset_password": "Reset Sandi",
     "forgot_password_btn": "Kirimi Email",
     "forgot_password_success": "Bukak email kanggo njaluk sandhi",
     "_change_password": "Ganti Sandi",
@@ -796,5 +800,11 @@
     "timeago_a_month": "bab sasi",
     "timeago_months": "{months} sasi",
     "timeago_a_year": "udakara setaun",
-    "timeago_years": "{years} taun"
+    "timeago_years": "{years} taun",
+    "_internet": "internet",
+    "no_internet": "Ora Ana Sambungan Internet",
+    "no_internet_content_1": "Kita ora bisa ndeteksi konektivitas internet. Mangga priksa sambungan internet lan mbukak maneh app.",
+    "no_internet_content_2": "Kita ora bisa ndeteksi konektivitas internet. Mangga dipriksa sambungan internet.",
+    "internet_connected": "Internet Nyambung",
+    "internet_let": "Ayo padha seneng."
 }

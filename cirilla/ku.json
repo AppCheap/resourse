@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Şîfre ji bîr kir",
     "forgot_password_appbar": "Şîfre ji bîr kir",
     "forgot_password_description": "Navnîşana e-nameya hesabê xwe binivîsin û em ê talîmatan bişînin ka meriv çawa şîfreya xwe nûve dike",
+    "forgot_password_desc_app": "Ji kerema xwe navê bikarhênerê xwe binivîse ku kodek pejirandinê bistînin. Em ê kodê bişînin navnîşana e-nameya ku ji bo hesabê we qeydkirî ye.",
+    "forgot_password_note": "Nîşe: Navnîşana e-nameya we divê derbasdar be û ji bîr nekin ku qutiya xweya Junk kontrol bikin.",
+    "forgot_password": "Şandin",
+    "forgot_password_reset_password": "Şîfreyê Vegerîne",
     "forgot_password_btn": "E-nameyê bişînin",
     "forgot_password_success": "Herin e-nameya xwe da ku şîfreyê bistînin",
     "_change_password": "Şîfre biguherînin",
@@ -796,5 +800,11 @@
     "timeago_a_month": "nêzîkî mehekê",
     "timeago_months": "{months} meh",
     "timeago_a_year": "nêzîkî salekê",
-    "timeago_years": "{years} sal"
+    "timeago_years": "{years} sal",
+    "_internet": "înternetê",
+    "no_internet": "Têkiliya Înternetê tune",
+    "no_internet_content_1": "Em nikarin ti girêdana înternetê tesbît bikin. Ji kerema xwe pêwendiya xweya înternetê kontrol bikin û sepanê ji nû ve vekin.",
+    "no_internet_content_2": "Em nikarin tu pêwendiya înternetê nas bikin. Ji kerema xwe pêwendiya xweya înternetê kontrol bikin.",
+    "internet_connected": "Înternetê Girêdayî",
+    "internet_let": "Werin em jê kêf bikin."
 }
