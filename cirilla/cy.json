@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Wedi anghofio cyfrinair",
     "forgot_password_appbar": "Wedi anghofio Cyfrinair",
     "forgot_password_description": "Rhowch gyfeiriad e-bost eich cyfrif a byddwn yn anfon cyfarwyddiadau ar sut i ailosod eich cyfrinair",
+    "forgot_password_desc_app": "Rhowch eich enw defnyddiwr i dderbyn cod cadarnhau. Byddwn yn anfon y cod i'r cyfeiriad e-bost sydd wedi'i gofrestru ar gyfer eich cyfrif.",
+    "forgot_password_note": "Nodyn: Rhaid i'ch cyfeiriad e-bost fod yn ddilys a pheidiwch ag anghofio gwirio'ch mewnflwch Sothach.",
+    "forgot_password": "Anfon",
+    "forgot_password_reset_password": "Ailosod cyfrinair",
     "forgot_password_btn": "Anfon e-bost",
     "forgot_password_success": "Ewch eich e-bost i gael cyfrinair",
     "_change_password": "Newid cyfrinair",
@@ -796,5 +800,11 @@
     "timeago_a_month": "tua mis",
     "timeago_months": "{months} mis",
     "timeago_a_year": "tua blwyddyn",
-    "timeago_years": "{years} o flynyddoedd"
+    "timeago_years": "{years} o flynyddoedd",
+    "_internet": "rhyngrwyd",
+    "no_internet": "Dim Cysylltiad Rhyngrwyd",
+    "no_internet_content_1": "Ni allwn ganfod unrhyw gysylltedd rhyngrwyd. Gwiriwch eich cysylltiad rhyngrwyd ac ailagor app.",
+    "no_internet_content_2": "Ni allwn ganfod unrhyw gysylltedd rhyngrwyd. Gwiriwch eich cysylltiad rhyngrwyd.",
+    "internet_connected": "Rhyngrwyd Cysylltiedig",
+    "internet_let": "Gadewch i ni ei fwynhau."
 }

@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Wibagiwe ijambo ryibanga",
     "forgot_password_appbar": "Wibagiwe ijambo ryibanga",
     "forgot_password_description": "Injira aderesi imeri ya konte yawe hanyuma twohereze amabwiriza yuburyo bwo gusubiramo ijambo ryibanga",
+    "forgot_password_desc_app": "Nyamuneka andika izina ukoresha kugirango wakire kode yemeza. Tuzohereza kode kuri aderesi imeri yanditswe kuri konte yawe.",
+    "forgot_password_note": "Icyitonderwa: Aderesi imeri yawe igomba kuba ifite agaciro kandi ntuzibagirwe kugenzura inbox yawe.",
+    "forgot_password": "Ohereza",
+    "forgot_password_reset_password": "Ongera usubize ijambo ryibanga",
     "forgot_password_btn": "Ohereza imeri",
     "forgot_password_success": "Genda imeri yawe kugirango ubone ijambo ryibanga",
     "_change_password": "Hindura ijambo ryibanga",
@@ -796,5 +800,11 @@
     "timeago_a_month": "ukwezi",
     "timeago_months": "{months} amezi",
     "timeago_a_year": "nk'umwaka",
-    "timeago_years": "{years} imyaka"
+    "timeago_years": "{years} imyaka",
+    "_internet": "interineti",
+    "no_internet": "Nta murongo wa interineti",
+    "no_internet_content_1": "Ntidushobora kumenya umurongo wa enterineti. Nyamuneka reba umurongo wa enterineti hanyuma ufungure porogaramu.",
+    "no_internet_content_2": "Ntidushobora kumenya umurongo wa enterineti. Nyamuneka reba umurongo wa enterineti.",
+    "internet_connected": "Umuyoboro wa interineti",
+    "internet_let": "Reka twishimire."
 }

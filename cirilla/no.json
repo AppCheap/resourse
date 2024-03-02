@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Glemt passord",
     "forgot_password_appbar": "Glemt passord",
     "forgot_password_description": "Skriv inn e-postadressen for kontoen din, så sender vi instruksjoner om hvordan du tilbakestiller passordet ditt",
+    "forgot_password_desc_app": "Vennligst skriv inn brukernavnet ditt for å motta en bekreftelseskode. Vi sender koden til e-postadressen som er registrert for kontoen din.",
+    "forgot_password_note": "Merk: E-postadressen din må være gyldig, og ikke glem å sjekke søppelinnboksen din.",
+    "forgot_password": "Sende",
+    "forgot_password_reset_password": "Tilbakestille passord",
     "forgot_password_btn": "Send e-post",
     "forgot_password_success": "Gå til e-posten din for å få passord",
     "_change_password": "Bytt passord",
@@ -796,5 +800,11 @@
     "timeago_a_month": "omtrent en måned",
     "timeago_months": "{months} måneder",
     "timeago_a_year": "omtrent et år",
-    "timeago_years": "{years} år"
+    "timeago_years": "{years} år",
+    "_internet": "internett",
+    "no_internet": "Ingen Internett-tilkobling",
+    "no_internet_content_1": "Vi kan ikke oppdage noen internettforbindelse. Sjekk internettforbindelsen din og åpne appen på nytt.",
+    "no_internet_content_2": "Vi kan ikke oppdage noen internettforbindelse. Vennligst sjekk Internett-tilkoblingen din.",
+    "internet_connected": "Internett tilkoblet",
+    "internet_let": "La oss nyte det."
 }

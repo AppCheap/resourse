@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Şifrəni unutmusunuz",
     "forgot_password_appbar": "Şifrəni unutmusunuz",
     "forgot_password_description": "Hesabınızın e-poçt ünvanını daxil edin və biz parolunuzu necə sıfırlamaq barədə təlimatlar göndərəcəyik",
+    "forgot_password_desc_app": "Təsdiq kodunu almaq üçün istifadəçi adınızı daxil edin. Kodu hesabınız üçün qeydiyyatdan keçmiş e-poçt ünvanına göndərəcəyik.",
+    "forgot_password_note": "Qeyd: E-poçt ünvanınız etibarlı olmalıdır və lazımsız gələnlər qutusunu yoxlamağı unutmayın.",
+    "forgot_password": "Göndər",
+    "forgot_password_reset_password": "Parolu sıfırlamak",
     "forgot_password_btn": "E-poçt göndər",
     "forgot_password_success": "Parol almaq üçün e-poçtunuza daxil olun",
     "_change_password": "Parolun dəyişdirilməsi",
@@ -796,5 +800,11 @@
     "timeago_a_month": "təxminən bir ay",
     "timeago_months": "{months} ay",
     "timeago_a_year": "təxminən bir il",
-    "timeago_years": "{years} il"
+    "timeago_years": "{years} il",
+    "_internet": "internet",
+    "no_internet": "İnternet bağlantısı yoxdur",
+    "no_internet_content_1": "Biz heç bir internet bağlantısı aşkar edə bilmirik. İnternet bağlantınızı yoxlayın və proqramı yenidən açın.",
+    "no_internet_content_2": "Biz heç bir internet bağlantısı aşkar edə bilmirik. Zəhmət olmasa internet bağlantınızı yoxlayın.",
+    "internet_connected": "İnternetə qoşuldu",
+    "internet_let": "Gəlin bundan həzz alaq."
 }

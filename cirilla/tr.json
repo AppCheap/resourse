@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Parolanızı mı unuttunuz",
     "forgot_password_appbar": "Parolanızı mı unuttunuz",
     "forgot_password_description": "Hesap e-posta adresinizi girin, şifrenizi nasıl sıfırlayacağınıza ilişkin talimatları göndereceğiz",
+    "forgot_password_desc_app": "Onay kodunu almak için lütfen kullanıcı adınızı girin. Kodu, hesabınızda kayıtlı olan e-posta adresine göndereceğiz.",
+    "forgot_password_note": "Not: E-posta adresiniz geçerli olmalı ve Önemsiz gelen kutunuzu kontrol etmeyi unutmayın.",
+    "forgot_password": "Göndermek",
+    "forgot_password_reset_password": "Şifreyi yenile",
     "forgot_password_btn": "Eposta gönder",
     "forgot_password_success": "Şifre almak için e-postanıza gidin",
     "_change_password": "Şifre değiştir",
@@ -796,5 +800,11 @@
     "timeago_a_month": "yaklaşık bir ay",
     "timeago_months": "{months} ay",
     "timeago_a_year": "Yaklaşık bir yıl",
-    "timeago_years": "{years} yıl"
+    "timeago_years": "{years} yıl",
+    "_internet": "internet",
+    "no_internet": "İnternet bağlantısı yok",
+    "no_internet_content_1": "Herhangi bir internet bağlantısı tespit edemiyoruz. Lütfen internet bağlantınızı kontrol edin ve uygulamayı yeniden açın.",
+    "no_internet_content_2": "Herhangi bir internet bağlantısı tespit edemiyoruz. Lütfen internet bağlantınızı kontrol edin.",
+    "internet_connected": "İnternete Bağlı",
+    "internet_let": "Hadi keyfini çıkaralım."
 }

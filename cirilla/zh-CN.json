@@ -87,6 +87,10 @@
     "_forgot_password_screen": "忘记密码",
     "forgot_password_appbar": "忘记密码",
     "forgot_password_description": "输入您的帐户电子邮件地址，我们将发送有关如何重置密码的说明",
+    "forgot_password_desc_app": "请输入您的用户名以接收确认码。我们会将代码发送到您为帐户注册的电子邮件地址。",
+    "forgot_password_note": "注意：您的电子邮件地址必须有效，并且不要忘记检查您的垃圾邮件收件箱。",
+    "forgot_password": "发送",
+    "forgot_password_reset_password": "重设密码",
     "forgot_password_btn": "发电子邮件",
     "forgot_password_success": "去你的邮箱获取密码",
     "_change_password": "更改密码",
@@ -796,5 +800,11 @@
     "timeago_a_month": "大约一个月",
     "timeago_months": "{months}个月",
     "timeago_a_year": "大约一年",
-    "timeago_years": "{years}年"
+    "timeago_years": "{years}年",
+    "_internet": "互联网",
+    "no_internet": "没有网络连接",
+    "no_internet_content_1": "我们无法检测到任何互联网连接。请检查您的互联网连接并重新打开应用程序。",
+    "no_internet_content_2": "我们无法检测到任何互联网连接。请检查您的互联网连接。",
+    "internet_connected": "互联网连接",
+    "internet_let": "让我们欣赏一下吧。"
 }

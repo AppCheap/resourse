@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Dearmad ar pasfhocal",
     "forgot_password_appbar": "Dearmad ar pasfhocal",
     "forgot_password_description": "Cuir isteach seoladh ríomhphoist do chuntais agus seolfaimid treoracha maidir le conas do phasfhocal a athshocrú",
+    "forgot_password_desc_app": "Cuir isteach d'ainm úsáideora chun cód deimhnithe a fháil. Seolfaimid an cód chuig an seoladh ríomhphoist atá cláraithe do do chuntas.",
+    "forgot_password_note": "Tabhair faoi deara: Caithfidh do sheoladh ríomhphoist a bheith bailí agus ná déan dearmad seiceáil a dhéanamh ar do bhosca isteach Dramhaíola.",
+    "forgot_password": "Seol",
+    "forgot_password_reset_password": "Athshocraigh Pasfhocal",
     "forgot_password_btn": "Seol Ríomhphost",
     "forgot_password_success": "Téigh do ríomhphost chun pasfhocal a fháil",
     "_change_password": "Athraigh do phasfhocal",
@@ -796,5 +800,11 @@
     "timeago_a_month": "thart ar mhí",
     "timeago_months": "{months} mí",
     "timeago_a_year": "thart ar bhliain",
-    "timeago_years": "{years} bliain"
+    "timeago_years": "{years} bliain",
+    "_internet": "idirlíon",
+    "no_internet": "Gan nasc Idirlín",
+    "no_internet_content_1": "Ní féidir linn aon nascacht idirlín a bhrath. Seiceáil do nasc idirlín agus athoscail an aip.",
+    "no_internet_content_2": "Ní féidir linn aon nascacht idirlín a bhrath. Seiceáil do nasc idirlín.",
+    "internet_connected": "Nasc Idirlín",
+    "internet_let": "Bainimis sult as."
 }

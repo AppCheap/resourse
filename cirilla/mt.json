@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Insejt il-password",
     "forgot_password_appbar": "Insejt il-password",
     "forgot_password_description": "Daħħal l-indirizz tal-email tal-kont tiegħek u aħna nibagħtu struzzjonijiet dwar kif tirrisettja l-password tiegħek",
+    "forgot_password_desc_app": "Jekk jogħġbok daħħal l-isem tal-utent tiegħek biex tirċievi kodiċi ta' konferma. Aħna nibagħtu l-kodiċi fl-indirizz elettroniku li huwa rreġistrat għall-kont tiegħek.",
+    "forgot_password_note": "Nota: L-indirizz elettroniku tiegħek għandu jkun validu u tinsiex tiċċekkja l-inbox tal-junk tiegħek.",
+    "forgot_password": "Ibgħat",
+    "forgot_password_reset_password": "Irrisettja l-Password",
     "forgot_password_btn": "Ibgħat Email",
     "forgot_password_success": "Mur l-email tiegħek biex tikseb il-password",
     "_change_password": "Biddel il-password",
@@ -796,5 +800,11 @@
     "timeago_a_month": "madwar xahar",
     "timeago_months": "{months} xhur",
     "timeago_a_year": "madwar sena",
-    "timeago_years": "{years} snin"
+    "timeago_years": "{years} snin",
+    "_internet": "internet",
+    "no_internet": "Ebda Konnessjoni tal-Internet",
+    "no_internet_content_1": "Ma nistgħux niskopru l-ebda konnettività tal-internet. Jekk jogħġbok iċċekkja l-konnessjoni tal-internet tiegħek u terġa' tiftaħ l-app.",
+    "no_internet_content_2": "Ma nistgħux niskopru l-ebda konnettività tal-internet. Jekk jogħġbok iċċekkja l-konnessjoni tal-internet tiegħek.",
+    "internet_connected": "Internet Konnessi",
+    "internet_let": "Ejja ngawduha."
 }

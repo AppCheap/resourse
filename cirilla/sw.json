@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Umesahau nywila",
     "forgot_password_appbar": "Umesahau nywila",
     "forgot_password_description": "Weka barua pepe ya akaunti yako na tutakutumia maagizo ya jinsi ya kuweka upya nenosiri lako",
+    "forgot_password_desc_app": "Tafadhali ingiza jina lako la mtumiaji ili kupokea nambari ya kuthibitisha. Tutatuma msimbo kwa anwani ya barua pepe ambayo imesajiliwa kwa akaunti yako.",
+    "forgot_password_note": "Kumbuka: Barua pepe yako lazima iwe halali na usisahau kuangalia kisanduku pokezi chako cha Junk.",
+    "forgot_password": "Tuma",
+    "forgot_password_reset_password": "Weka upya Nenosiri",
     "forgot_password_btn": "Kutuma barua pepe",
     "forgot_password_success": "Nenda kwa barua pepe yako ili upate nenosiri",
     "_change_password": "Badilisha neno la siri",
@@ -796,5 +800,11 @@
     "timeago_a_month": "takriban mwezi mmoja",
     "timeago_months": "{months}",
     "timeago_a_year": "takriban mwaka mmoja",
-    "timeago_years": "{years}"
+    "timeago_years": "{years}",
+    "_internet": "mtandao",
+    "no_internet": "Hakuna Muunganisho wa Mtandao",
+    "no_internet_content_1": "Hatuwezi kugundua muunganisho wowote wa intaneti. Tafadhali angalia muunganisho wako wa intaneti na ufungue programu upya.",
+    "no_internet_content_2": "Hatuwezi kugundua muunganisho wowote wa intaneti. Tafadhali angalia muunganisho wako wa intaneti.",
+    "internet_connected": "Mtandao Umeunganishwa",
+    "internet_let": "Hebu tufurahie."
 }

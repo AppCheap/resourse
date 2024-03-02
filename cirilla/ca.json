@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Has oblidat la contrasenya",
     "forgot_password_appbar": "Has oblidat la contrasenya",
     "forgot_password_description": "Introduïu l'adreça de correu electrònic del vostre compte i us enviarem instruccions sobre com restablir la contrasenya",
+    "forgot_password_desc_app": "Introduïu el vostre nom d'usuari per rebre un codi de confirmació. Enviarem el codi a l'adreça de correu electrònic registrada per al vostre compte.",
+    "forgot_password_note": "Nota: la vostra adreça de correu electrònic ha de ser vàlida i no us oblideu de comprovar la vostra bústia de correu brossa.",
+    "forgot_password": "Enviar",
+    "forgot_password_reset_password": "Restablir la contrasenya",
     "forgot_password_btn": "Envia un correu electrònic",
     "forgot_password_success": "Aneu al vostre correu electrònic per obtenir la contrasenya",
     "_change_password": "Canvia la contrasenya",
@@ -796,5 +800,11 @@
     "timeago_a_month": "aproximadament un mes",
     "timeago_months": "{months} mesos",
     "timeago_a_year": "aproximadament un any",
-    "timeago_years": "{years} anys"
+    "timeago_years": "{years} anys",
+    "_internet": "internet",
+    "no_internet": "Sense connexió a Internet",
+    "no_internet_content_1": "No podem detectar cap connexió a Internet. Comproveu la vostra connexió a Internet i torneu a obrir l'aplicació.",
+    "no_internet_content_2": "No podem detectar cap connexió a Internet. Comproveu la vostra connexió a Internet.",
+    "internet_connected": "Connectat a Internet",
+    "internet_let": "Disfrutem-ho."
 }

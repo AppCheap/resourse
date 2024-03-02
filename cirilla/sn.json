@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Wakanganwa password",
     "forgot_password_appbar": "Forgot Password",
     "forgot_password_description": "Isa kero yeemail yeakaundi yako uye tichakutumira mirairo yekuti ungaisa sei patsva password yako",
+    "forgot_password_desc_app": "Ndokumbira uise zita rako rekushandisa kuti ugamuchire kodhi yekusimbisa. Isu tichatumira iyo kodhi kukero yeemail yakanyoreswa kuaccount yako.",
+    "forgot_password_note": "Ongorora: Yako email kero inofanirwa kuve inoshanda uye usakanganwe kutarisa Junk inbox yako.",
+    "forgot_password": "Send",
+    "forgot_password_reset_password": "Reset Password",
     "forgot_password_btn": "Send Email",
     "forgot_password_success": "Enda email yako kuti utore password",
     "_change_password": "Chinja password",
@@ -796,5 +800,11 @@
     "timeago_a_month": "anenge mwedzi",
     "timeago_months": "{months} mwedzi",
     "timeago_a_year": "rinenge gore",
-    "timeago_years": "{years}"
+    "timeago_years": "{years}",
+    "_internet": "internet",
+    "no_internet": "Hapana Indaneti",
+    "no_internet_content_1": "Hatikwanise kuona chero kubatana kweinternet. Ndokumbira utarise kubatana kwako kweinternet wovhurazve app.",
+    "no_internet_content_2": "Hatikwanise kuona chero kubatana kweinternet. Ndokumbira utarise internet yako.",
+    "internet_connected": "Internet Yakabatanidzwa",
+    "internet_let": "Ngatinakidzwe nazvo."
 }

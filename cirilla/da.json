@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Glemt kodeord",
     "forgot_password_appbar": "Glemt kodeord",
     "forgot_password_description": "Indtast din konto-e-mailadresse, og vi sender instruktioner om, hvordan du nulstiller din adgangskode",
+    "forgot_password_desc_app": "Indtast venligst dit brugernavn for at modtage en bekræftelseskode. Vi sender koden til den e-mailadresse, der er registreret for din konto.",
+    "forgot_password_note": "Bemærk: Din e-mailadresse skal være gyldig, og glem ikke at tjekke din junk-indbakke.",
+    "forgot_password": "Sende",
+    "forgot_password_reset_password": "Nulstille kodeord",
     "forgot_password_btn": "Send e-mail",
     "forgot_password_success": "Gå til din e-mail for at få adgangskode",
     "_change_password": "Skift kodeord",
@@ -796,5 +800,11 @@
     "timeago_a_month": "omkring en måned",
     "timeago_months": "{months} måneder",
     "timeago_a_year": "omkring et år",
-    "timeago_years": "{years} år"
+    "timeago_years": "{years} år",
+    "_internet": "internet",
+    "no_internet": "Ingen internetforbindelse",
+    "no_internet_content_1": "Vi kan ikke registrere nogen internetforbindelse. Tjek venligst din internetforbindelse og genåbn appen.",
+    "no_internet_content_2": "Vi kan ikke registrere nogen internetforbindelse. Tjek venligst din internetforbindelse.",
+    "internet_connected": "Internet tilsluttet",
+    "internet_let": "Lad os nyde det."
 }

@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Esqueceu sua senha",
     "forgot_password_appbar": "Esqueceu sua senha",
     "forgot_password_description": "Digite o endereço de e-mail da sua conta e enviaremos instruções sobre como redefinir sua senha",
+    "forgot_password_desc_app": "Por favor, digite seu nome de usuário para receber um código de confirmação. Enviaremos o código para o endereço de e-mail cadastrado em sua conta.",
+    "forgot_password_note": "Nota: Seu endereço de e-mail deve ser válido e não se esqueça de verificar sua caixa de lixo eletrônico.",
+    "forgot_password": "Enviar",
+    "forgot_password_reset_password": "Redefinir senha",
     "forgot_password_btn": "Enviar email",
     "forgot_password_success": "Vá seu e-mail para obter a senha",
     "_change_password": "Alterar a senha",
@@ -796,5 +800,11 @@
     "timeago_a_month": "cerca de um mês",
     "timeago_months": "{months} meses",
     "timeago_a_year": "cerca de um ano",
-    "timeago_years": "{years} anos"
+    "timeago_years": "{years} anos",
+    "_internet": "Internet",
+    "no_internet": "Sem conexão com a Internet",
+    "no_internet_content_1": "Não conseguimos detectar nenhuma conectividade com a Internet. Verifique sua conexão com a Internet e reabra o aplicativo.",
+    "no_internet_content_2": "Não conseguimos detectar nenhuma conectividade com a Internet. Por favor, verifique sua conexão à internet.",
+    "internet_connected": "Conectado à Internet",
+    "internet_let": "Vamos aproveitar."
 }

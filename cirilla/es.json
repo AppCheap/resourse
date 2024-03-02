@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Has olvidado tu contraseña",
     "forgot_password_appbar": "Has olvidado tu contraseña",
     "forgot_password_description": "Ingrese la dirección de correo electrónico de su cuenta y le enviaremos instrucciones sobre cómo restablecer su contraseña",
+    "forgot_password_desc_app": "Por favor ingrese su nombre de usuario para recibir un código de confirmación. Enviaremos el código a la dirección de correo electrónico registrada en su cuenta.",
+    "forgot_password_note": "Nota: Su dirección de correo electrónico debe ser válida y no olvide revisar su bandeja de entrada no deseada.",
+    "forgot_password": "Enviar",
+    "forgot_password_reset_password": "Restablecer la contraseña",
     "forgot_password_btn": "Enviar correo electrónico",
     "forgot_password_success": "Vaya a su correo electrónico para obtener la contraseña",
     "_change_password": "Cambiar la contraseña",
@@ -796,5 +800,11 @@
     "timeago_a_month": "Al rededor de un mes",
     "timeago_months": "{months} meses",
     "timeago_a_year": "como un año",
-    "timeago_years": "{years} años"
+    "timeago_years": "{years} años",
+    "_internet": "Internet",
+    "no_internet": "Sin conexión a Internet",
+    "no_internet_content_1": "No podemos detectar ninguna conectividad a Internet. Verifique su conexión a Internet y vuelva a abrir la aplicación.",
+    "no_internet_content_2": "No podemos detectar ninguna conectividad a Internet. Por favor revise su conexion a internet.",
+    "internet_connected": "conectado a internet",
+    "internet_let": "Disfrutemoslo."
 }

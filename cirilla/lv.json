@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Aizmirsi paroli",
     "forgot_password_appbar": "Aizmirsi paroli",
     "forgot_password_description": "Ievadiet sava konta e-pasta adresi, un mēs nosūtīsim norādījumus par paroles atiestatīšanu",
+    "forgot_password_desc_app": "Lūdzu, ievadiet savu lietotājvārdu, lai saņemtu apstiprinājuma kodu. Mēs nosūtīsim kodu uz e-pasta adresi, kas ir reģistrēta jūsu kontam.",
+    "forgot_password_note": "Piezīme. Jūsu e-pasta adresei ir jābūt derīgai un neaizmirstiet pārbaudīt nevēlamo iesūtni.",
+    "forgot_password": "Sūtīt",
+    "forgot_password_reset_password": "Atiestatīt paroli",
     "forgot_password_btn": "Sūtīt e-pastu",
     "forgot_password_success": "Dodieties uz savu e-pastu, lai iegūtu paroli",
     "_change_password": "Mainīt paroli",
@@ -796,5 +800,11 @@
     "timeago_a_month": "apmēram mēnesi",
     "timeago_months": "{months} mēneši",
     "timeago_a_year": "apmēram gadu",
-    "timeago_years": "{years} gadi"
+    "timeago_years": "{years} gadi",
+    "_internet": "internets",
+    "no_internet": "Nav interneta savienojuma",
+    "no_internet_content_1": "Mēs nevaram noteikt interneta savienojumu. Lūdzu, pārbaudiet interneta savienojumu un atkārtoti atveriet lietotni.",
+    "no_internet_content_2": "Mēs nevaram noteikt interneta savienojumu. Lūdzu, pārbaudiet savu interneta savienojumu.",
+    "internet_connected": "Savienots ar internetu",
+    "internet_let": "Izbaudīsim to."
 }

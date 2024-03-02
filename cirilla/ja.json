@@ -87,6 +87,10 @@
     "_forgot_password_screen": "パスワードをお忘れですか",
     "forgot_password_appbar": "パスワードをお忘れですか",
     "forgot_password_description": "アカウントのメールアドレスを入力してください。パスワードをリセットする方法をお送りします",
+    "forgot_password_desc_app": "確認コードを受け取るには、ユーザー名を入力してください。アカウントに登録されているメールアドレスにコードを送信します。",
+    "forgot_password_note": "注: メール アドレスは有効である必要があります。迷惑メール ボックスを確認することを忘れないでください。",
+    "forgot_password": "送信",
+    "forgot_password_reset_password": "パスワードを再設定する",
     "forgot_password_btn": "メールを送る",
     "forgot_password_success": "パスワードを取得するには、メールにアクセスしてください",
     "_change_password": "パスワードを変更する",
@@ -796,5 +800,11 @@
     "timeago_a_month": "約1ヶ月",
     "timeago_months": "{months}か月",
     "timeago_a_year": "約1年",
-    "timeago_years": "{years}年"
+    "timeago_years": "{years}年",
+    "_internet": "インターネット",
+    "no_internet": "インターネット接続なし",
+    "no_internet_content_1": "インターネット接続が検出できません。インターネット接続を確認し、アプリを再度開いてください。",
+    "no_internet_content_2": "インターネット接続が検出できません。インターネット接続を確認してください。",
+    "internet_connected": "インターネット接続済み",
+    "internet_let": "楽しみましょう。"
 }

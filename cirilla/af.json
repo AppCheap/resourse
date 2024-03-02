@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Wagwoord vergeet",
     "forgot_password_appbar": "Wagwoord vergeet",
     "forgot_password_description": "Voer jou rekening-e-posadres in en ons sal instruksies stuur oor hoe om jou wagwoord terug te stel",
+    "forgot_password_desc_app": "Voer asseblief jou gebruikersnaam in om 'n bevestigingskode te ontvang. Ons sal die kode stuur na die e-posadres wat vir jou rekening geregistreer is.",
+    "forgot_password_note": "Let wel: Jou e-posadres moet geldig wees en moenie vergeet om jou rommel-inkassie na te gaan nie.",
+    "forgot_password": "Stuur",
+    "forgot_password_reset_password": "Herstel wagwoord",
     "forgot_password_btn": "Stuur e-pos",
     "forgot_password_success": "Gaan jou e-pos om wagwoord te kry",
     "_change_password": "Verander wagwoord",
@@ -796,5 +800,11 @@
     "timeago_a_month": "ongeveer 'n maand",
     "timeago_months": "{months} maande",
     "timeago_a_year": "ongeveer 'n jaar",
-    "timeago_years": "{years} jaar"
+    "timeago_years": "{years} jaar",
+    "_internet": "internet",
+    "no_internet": "Geen internetverbinding nie",
+    "no_internet_content_1": "Ons kan geen internetverbinding bespeur nie. Gaan asseblief jou internetverbinding na en maak die toepassing weer oop.",
+    "no_internet_content_2": "Ons kan geen internetverbinding bespeur nie. Gaan asseblief jou internetverbinding na.",
+    "internet_connected": "Internet Gekoppel",
+    "internet_let": "Kom ons geniet dit."
 }

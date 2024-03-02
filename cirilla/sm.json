@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Ua galo upu faataga",
     "forgot_password_appbar": "Ua galo upu faataga",
     "forgot_password_description": "Ulufale lau tuatusi imeli tala ma o le a matou auina atu faatonuga i le auala e toe setiina lau upu faataga",
+    "forgot_password_desc_app": "Fa'amolemole tu'u lou igoa ole igoa e maua ai se fa'ailoga fa'amaonia. O le a matou lafoina le code i le tuatusi imeli ua lesitala mo lau teugatupe.",
+    "forgot_password_note": "Fa'aaliga: E tatau ona aoga lau tuatusi imeli ma aua nei galo e siaki lau pusameli Junk.",
+    "forgot_password": "Auina atu",
+    "forgot_password_reset_password": "Toe setiina upu faataga",
     "forgot_password_btn": "Auina imeli",
     "forgot_password_success": "Alu lau imeli e maua ai le password",
     "_change_password": "Suia le upu faataga",
@@ -796,5 +800,11 @@
     "timeago_a_month": "pe tusa o le masina",
     "timeago_months": "{months} masina",
     "timeago_a_year": "pe tusa o le tausaga",
-    "timeago_years": "{years} tausaga"
+    "timeago_years": "{years} tausaga",
+    "_internet": "initaneti",
+    "no_internet": "Leai se Feso'ota'iga Initaneti",
+    "no_internet_content_1": "E le mafai ona matou iloa so'o se feso'ota'iga initaneti. Fa'amolemole siaki lau feso'ota'iga initaneti ma toe tatala le app.",
+    "no_internet_content_2": "E le mafai ona matou iloa so'o se feso'ota'iga initaneti. Fa'amolemole siaki lau feso'ota'iga initaneti.",
+    "internet_connected": "Feso'ota'i Initaneti",
+    "internet_let": "Tatou fiafia i ai."
 }

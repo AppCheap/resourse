@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Elfelejtett jelszó",
     "forgot_password_appbar": "Elfelejtett jelszó",
     "forgot_password_description": "Adja meg fiókja e-mail címét, és elküldjük a jelszó visszaállításához szükséges utasításokat",
+    "forgot_password_desc_app": "Kérjük, adja meg felhasználónevét, hogy megkapja a visszaigazoló kódot. A kódot a fiókjához regisztrált e-mail címre küldjük.",
+    "forgot_password_note": "Megjegyzés: e-mail címének érvényesnek kell lennie, és ne felejtse el ellenőrizni a Levélszemét mappát.",
+    "forgot_password": "Küld",
+    "forgot_password_reset_password": "Jelszó visszaállítása",
     "forgot_password_btn": "Küldjön e-mailt",
     "forgot_password_success": "Menjen az e-mail címére a jelszóért",
     "_change_password": "Jelszó módosítása",
@@ -796,5 +800,11 @@
     "timeago_a_month": "Körülbelül egy hónap",
     "timeago_months": "{months} hónap",
     "timeago_a_year": "körülbelül egy év",
-    "timeago_years": "{years} év"
+    "timeago_years": "{years} év",
+    "_internet": "Internet",
+    "no_internet": "Nincs internetkapcsolat",
+    "no_internet_content_1": "Nem találunk internetkapcsolatot. Kérjük, ellenőrizze internetkapcsolatát, és nyissa meg újra az alkalmazást.",
+    "no_internet_content_2": "Nem találunk internetkapcsolatot. Kérjük, ellenőrizze internetkapcsolatát.",
+    "internet_connected": "Internet csatlakoztatva",
+    "internet_let": "Élvezzük."
 }

@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Password dimenticata",
     "forgot_password_appbar": "Password dimenticata",
     "forgot_password_description": "Inserite u vostru indirizzu email di u vostru contu è manderemu struzzioni nantu à cumu resettate a vostra password",
+    "forgot_password_desc_app": "Per piacè inserite u vostru nome d'utilizatore per riceve un codice di cunferma. Manderemu u codice à l'indirizzu email chì hè registratu per u vostru contu.",
+    "forgot_password_note": "Nota: U vostru indirizzu email deve esse validu è ùn vi scurdate di verificà a vostra inbox inbox.",
+    "forgot_password": "Mandate",
+    "forgot_password_reset_password": "Resetten Password",
     "forgot_password_btn": "Mandate e-mail",
     "forgot_password_success": "Andate u vostru email per uttene password",
     "_change_password": "Cambia Password",
@@ -796,5 +800,11 @@
     "timeago_a_month": "circa un mese",
     "timeago_months": "{months} mesi",
     "timeago_a_year": "circa un annu",
-    "timeago_years": "{years} anni"
+    "timeago_years": "{years} anni",
+    "_internet": "internet",
+    "no_internet": "Nisuna cunnessione Internet",
+    "no_internet_content_1": "Ùn pudemu micca detectà alcuna cunnessione Internet. Per piacè verificate a vostra cunnessione Internet è riapertura l'app.",
+    "no_internet_content_2": "Ùn pudemu micca detectà alcuna cunnessione Internet. Per piacè verificate a vostra cunnessione Internet.",
+    "internet_connected": "Internet Cunnessu",
+    "internet_let": "Divertimu."
 }

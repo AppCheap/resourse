@@ -87,6 +87,10 @@
     "_forgot_password_screen": "U lebetse phasewete",
     "forgot_password_appbar": "U lebetse phasewete",
     "forgot_password_description": "Kenya aterese ea lengolo-tsoibila la ak'haonte ea hau 'me re tla u romella litaelo tsa ho seta phasewete ea hau bocha",
+    "forgot_password_desc_app": "Ka kopo, kenya lebitso la hau la mosebelisi ho fumana khoutu ea netefatso. Re tla romela khoutu atereseng ea lengolo-tsoibila e ngolisitsoeng akhaonteng ea hau.",
+    "forgot_password_note": "Tlhokomeliso: Aterese ea hau ea lengolo-tsoibila e tlameha ho sebetsa 'me u seke oa lebala ho sheba inbox ea hau ea Junk.",
+    "forgot_password": "Romela",
+    "forgot_password_reset_password": "Seta Lekunutu bocha",
     "forgot_password_btn": "Romela Imeile",
     "forgot_password_success": "Kena lengolo-tsoibila la hau ho fumana password",
     "_change_password": "Fetola senotlolo",
@@ -796,5 +800,11 @@
     "timeago_a_month": "hoo e ka bang khoeli",
     "timeago_months": "Likhoeli {months}",
     "timeago_a_year": "hoo e ka bang selemo",
-    "timeago_years": "{years} lilemo"
+    "timeago_years": "{years} lilemo",
+    "_internet": "inthanete",
+    "no_internet": "Ha ho Khokahano ea Marang-rang",
+    "no_internet_content_1": "Ha re khone ho bona khokahanyo efe kapa efe ea Marang-rang. Ka kopo, lekola khokahanyo ea hau ea Marang-rang ebe u bula sesebelisoa hape.",
+    "no_internet_content_2": "Ha re khone ho bona khokahanyo efe kapa efe ea Marang-rang. Ka kopo, sheba khokahano ea hau ea Marang-rang.",
+    "internet_connected": "Marang-rang",
+    "internet_let": "A re e thabeleng."
 }

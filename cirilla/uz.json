@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Parolni unutdingizmi",
     "forgot_password_appbar": "Parolni unutdingizmi",
     "forgot_password_description": "Hisob qaydnomangizning elektron pochta manzilini kiriting va parolingizni qanday tiklash bo'yicha ko'rsatmalar yuboramiz",
+    "forgot_password_desc_app": "Tasdiqlash kodini olish uchun foydalanuvchi nomingizni kiriting. Kodni hisobingiz uchun ro'yxatdan o'tgan elektron pochta manziliga yuboramiz.",
+    "forgot_password_note": "Eslatma: Sizning elektron pochta manzilingiz to'g'ri bo'lishi kerak va keraksiz pochta qutisini tekshirishni unutmang.",
+    "forgot_password": "Yuborish",
+    "forgot_password_reset_password": "Parolni tiklash",
     "forgot_password_btn": "Email yuborish",
     "forgot_password_success": "Parolni olish uchun elektron pochtangizga kiring",
     "_change_password": "Parolni o'zgartirish",
@@ -796,5 +800,11 @@
     "timeago_a_month": "taxminan bir oy",
     "timeago_months": "{months} oy",
     "timeago_a_year": "taxminan bir yil",
-    "timeago_years": "{years} yil"
+    "timeago_years": "{years} yil",
+    "_internet": "internet",
+    "no_internet": "Internetga ulanmagan",
+    "no_internet_content_1": "Biz internetga ulanishni aniqlay olmadik. Iltimos, internet ulanishingizni tekshiring va ilovani qayta oching.",
+    "no_internet_content_2": "Biz internetga ulanishni aniqlay olmadik. Iltimos, internet aloqangizni tekshiring.",
+    "internet_connected": "Internetga ulangan",
+    "internet_let": "Keling, zavqlanaylik."
 }

@@ -87,6 +87,10 @@
     "_forgot_password_screen": "Kua wareware te kupuhipa",
     "forgot_password_appbar": "Wareware Kupuhipa",
     "forgot_password_description": "Whakauruhia to wahitau imeera ka tukuna atu e matou nga tohutohu me pehea te tautuhi i to kupuhipa",
+    "forgot_password_desc_app": "Whakauruhia koa to ingoa kaiwhakamahi kia whiwhi waehere whakau. Ka tukuna e matou te waehere ki te wahitau imeera kua rehitatia mo to putea.",
+    "forgot_password_note": "Tuhipoka: Me whai mana to wahitau imeera, kaua e wareware ki te tirotiro i to pouakaroto Paraurehe.",
+    "forgot_password": "Tukua",
+    "forgot_password_reset_password": "Tautuhi Kupuhipa",
     "forgot_password_btn": "Tukua Īmēra",
     "forgot_password_success": "Haere ki to imeera ki te tiki kupuhipa",
     "_change_password": "Huri Kupuhipa",
@@ -796,5 +800,11 @@
     "timeago_a_month": "kotahi marama pea",
     "timeago_months": "{months} marama",
     "timeago_a_year": "kotahi tau pea",
-    "timeago_years": "{years} tau"
+    "timeago_years": "{years} tau",
+    "_internet": "ipurangi",
+    "no_internet": "Kaore he Hononga Ipurangi",
+    "no_internet_content_1": "Kare e kitea he hononga ipurangi. Tena koa tirohia to hononga ipurangi me te whakatuwhera i te taupānga.",
+    "no_internet_content_2": "Kare e kitea he hononga ipurangi. Tena koa tirohia to hononga ipurangi.",
+    "internet_connected": "Hononga Ipurangi",
+    "internet_let": "Kia koa tatou."
 }

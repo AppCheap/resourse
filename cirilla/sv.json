@@ -87,6 +87,10 @@
     "_forgot_password_screen": "glömt ditt lösenord",
     "forgot_password_appbar": "Glömt ditt lösenord",
     "forgot_password_description": "Ange e-postadressen för ditt konto så skickar vi instruktioner om hur du återställer ditt lösenord",
+    "forgot_password_desc_app": "Ange ditt användarnamn för att få en bekräftelsekod. Vi skickar koden till den e-postadress som är registrerad för ditt konto.",
+    "forgot_password_note": "Obs: Din e-postadress måste vara giltig och glöm inte att kontrollera din skräppost.",
+    "forgot_password": "Skicka",
+    "forgot_password_reset_password": "Återställ lösenord",
     "forgot_password_btn": "Skicka epost",
     "forgot_password_success": "Gå till din e-post för att få lösenord",
     "_change_password": "Ändra lösenord",
@@ -796,5 +800,11 @@
     "timeago_a_month": "runt en månad",
     "timeago_months": "{months} månader",
     "timeago_a_year": "ungefär ett år",
-    "timeago_years": "{years} år"
+    "timeago_years": "{years} år",
+    "_internet": "internet",
+    "no_internet": "Ingen internetanslutning",
+    "no_internet_content_1": "Vi kan inte upptäcka någon internetanslutning. Kontrollera din internetanslutning och öppna appen igen.",
+    "no_internet_content_2": "Vi kan inte upptäcka någon internetanslutning. Kontrollera din internetanslutning.",
+    "internet_connected": "Internet ansluten",
+    "internet_let": "Låt oss njuta av det."
 }
